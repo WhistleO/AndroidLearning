@@ -787,6 +787,8 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tv1
+id tv2
 id uniform
 id up
 id useLogo
@@ -836,6 +838,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout strings_layout
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -878,7 +881,9 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string app_class
 string app_name
+string app_xml
 string btn_finish
 string search_menu_title
 string status_bar_notification_info_overflow

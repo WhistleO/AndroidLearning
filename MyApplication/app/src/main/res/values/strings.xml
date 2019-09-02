@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Chapter2</string>
     <string name="btn_finish">点击按钮</string>
+    <string name="app_class">Java代码访问strings文字资源</string>
+    <string name="app_xml">XML文件访问strings文字资源</string>
 </resources>

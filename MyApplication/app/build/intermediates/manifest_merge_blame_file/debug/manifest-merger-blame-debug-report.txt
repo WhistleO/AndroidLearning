@@ -33,9 +33,9 @@
 22        android:testOnly="true"
 23        android:theme="@style/AppTheme" >
 23-->E:\AndroidLearning\MyApplication\app\src\main\AndroidManifest.xml:14:9-40
-24        <activity android:name="com.example.myapplication.MainActivity" >
+24        <activity android:name="com.example.myapplication.Strings_ActivityDemo" >
 24-->E:\AndroidLearning\MyApplication\app\src\main\AndroidManifest.xml:15:9-21:20
-24-->E:\AndroidLearning\MyApplication\app\src\main\AndroidManifest.xml:15:19-47
+24-->E:\AndroidLearning\MyApplication\app\src\main\AndroidManifest.xml:15:19-55
 25            <intent-filter>
 25-->E:\AndroidLearning\MyApplication\app\src\main\AndroidManifest.xml:16:13-20:29
 26                <action android:name="android.intent.action.MAIN" />
