@@ -1,0 +1,4 @@
+#Wed Sep 04 18:42:02 CST 2019
+base.0=E\:\\AndroidLearning\\LoginApplication\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

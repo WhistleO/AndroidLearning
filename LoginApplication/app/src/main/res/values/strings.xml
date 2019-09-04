@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">点餐系统</string>
+    <string name="DSTitle">系统登录</string>
+    <string name="tvUid">账号</string>
+    <string name="edUid">请输入账号</string>
+    <string name="tvPwd">密码</string>
+    <string name="edPwd">请输入密码</string>
+    <string name="btnReg">注册</string>
+    <string name="btnLogin">登录</string>
+</resources>
